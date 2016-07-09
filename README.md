@@ -11,6 +11,9 @@ Fan, Siqi
 Huang, Jiayu
 
 Jia, Ruoying(Victoria)
+
+Gong, Xiao(Joanna)
+
 ## How to contribute
 
 1. Fork your own reporsitory from jerrybai1995 repository
