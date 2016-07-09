@@ -10,6 +10,7 @@ Fan, Siqi
 
 Huang, Jiayu
 
+Jia, Ruoying(Victoria)
 ## How to contribute
 
 1. Fork your own reporsitory from jerrybai1995 repository
