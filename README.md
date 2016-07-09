@@ -1,5 +1,7 @@
 # Centro ServiceDirectory Web Application
 
+![Image of Lava](lava.png)
+
 ## Version
 0.0.0
 
