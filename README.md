@@ -8,6 +8,8 @@ Bai, Shaojie (Jerry)
 
 Fan, Siqi
 
+Huang, Jiayu
+
 ## How to contribute
 
 1. Fork your own reporsitory from jerrybai1995 repository
