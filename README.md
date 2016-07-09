@@ -16,6 +16,8 @@ Jia, Ruoying(Victoria)
 
 Gong, Xiao(Joanna)
 
+Akash
+
 ## How to contribute
 
 1. Fork your own reporsitory from jerrybai1995 repository
